@@ -58,8 +58,7 @@ augroup END
 
 ### No support for 256 color terminal emulator themes
 
-Modifying the 256 colors seems overly complicated.
-If bold font is displaying in strange colors in your terminal emulator, search for an option to disable displaying bold fond in bright colors (it should have one).
+If bold fonts display in strange colors in your terminal emulator, search for an option to disable displaying bold fonts in bright colors (it should have one).
 
 ### Support for additional highlights
 
