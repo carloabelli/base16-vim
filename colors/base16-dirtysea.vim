@@ -1,4 +1,4 @@
-" Nord by arcticicestudio
+" dirtysea by Kahlil (Kal) Hodgson
 
 "
 " Theme setup
@@ -6,28 +6,28 @@
 
 hi clear
 syntax reset
-let g:colors_name = 'base16-nord'
+let g:colors_name = 'base16-dirtysea'
 
 "
 " Color definitions
 "
 
-let g:base00 = { 'gui': '#2E3440', 'cterm': '00' }
-let g:base01 = { 'gui': '#3B4252', 'cterm': '10' }
-let g:base02 = { 'gui': '#434C5E', 'cterm': '11' }
-let g:base03 = { 'gui': '#4C566A', 'cterm': '08' }
-let g:base04 = { 'gui': '#D8DEE9', 'cterm': '12' }
-let g:base05 = { 'gui': '#E5E9F0', 'cterm': '07' }
-let g:base06 = { 'gui': '#ECEFF4', 'cterm': '13' }
-let g:base07 = { 'gui': '#8FBCBB', 'cterm': '15' }
-let g:base08 = { 'gui': '#BF616A', 'cterm': '01' }
-let g:base09 = { 'gui': '#D08770', 'cterm': '09' }
-let g:base0A = { 'gui': '#EBCB8B', 'cterm': '03' }
-let g:base0B = { 'gui': '#A3BE8C', 'cterm': '02' }
-let g:base0C = { 'gui': '#88C0D0', 'cterm': '06' }
-let g:base0D = { 'gui': '#81A1C1', 'cterm': '04' }
-let g:base0E = { 'gui': '#B48EAD', 'cterm': '05' }
-let g:base0F = { 'gui': '#5E81AC', 'cterm': '14' }
+let g:base00 = { 'gui': '#e0e0e0', 'cterm': '00' }
+let g:base01 = { 'gui': '#d0d0d0', 'cterm': '10' }
+let g:base02 = { 'gui': '#c0c0c0', 'cterm': '11' }
+let g:base03 = { 'gui': '#707070', 'cterm': '08' }
+let g:base04 = { 'gui': '#202020', 'cterm': '12' }
+let g:base05 = { 'gui': '#000000', 'cterm': '07' }
+let g:base06 = { 'gui': '#f8f8f8', 'cterm': '13' }
+let g:base07 = { 'gui': '#c4d9c4', 'cterm': '15' }
+let g:base08 = { 'gui': '#000090', 'cterm': '01' }
+let g:base09 = { 'gui': '#006565', 'cterm': '09' }
+let g:base0A = { 'gui': '#006565', 'cterm': '03' }
+let g:base0B = { 'gui': '#730073', 'cterm': '02' }
+let g:base0C = { 'gui': '#755B00', 'cterm': '06' }
+let g:base0D = { 'gui': '#007300', 'cterm': '04' }
+let g:base0E = { 'gui': '#840000', 'cterm': '05' }
+let g:base0F = { 'gui': '#755B00', 'cterm': '14' }
 
 "
 " Terminal colors

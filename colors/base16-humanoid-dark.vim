@@ -1,4 +1,4 @@
-" Nord by arcticicestudio
+" Humanoid dark by Thomas (tasmo) Friese
 
 "
 " Theme setup
@@ -6,28 +6,28 @@
 
 hi clear
 syntax reset
-let g:colors_name = 'base16-nord'
+let g:colors_name = 'base16-humanoid-dark'
 
 "
 " Color definitions
 "
 
-let g:base00 = { 'gui': '#2E3440', 'cterm': '00' }
-let g:base01 = { 'gui': '#3B4252', 'cterm': '10' }
-let g:base02 = { 'gui': '#434C5E', 'cterm': '11' }
-let g:base03 = { 'gui': '#4C566A', 'cterm': '08' }
-let g:base04 = { 'gui': '#D8DEE9', 'cterm': '12' }
-let g:base05 = { 'gui': '#E5E9F0', 'cterm': '07' }
-let g:base06 = { 'gui': '#ECEFF4', 'cterm': '13' }
-let g:base07 = { 'gui': '#8FBCBB', 'cterm': '15' }
-let g:base08 = { 'gui': '#BF616A', 'cterm': '01' }
-let g:base09 = { 'gui': '#D08770', 'cterm': '09' }
-let g:base0A = { 'gui': '#EBCB8B', 'cterm': '03' }
-let g:base0B = { 'gui': '#A3BE8C', 'cterm': '02' }
-let g:base0C = { 'gui': '#88C0D0', 'cterm': '06' }
-let g:base0D = { 'gui': '#81A1C1', 'cterm': '04' }
-let g:base0E = { 'gui': '#B48EAD', 'cterm': '05' }
-let g:base0F = { 'gui': '#5E81AC', 'cterm': '14' }
+let g:base00 = { 'gui': '#232629', 'cterm': '00' }
+let g:base01 = { 'gui': '#333b3d', 'cterm': '10' }
+let g:base02 = { 'gui': '#484e54', 'cterm': '11' }
+let g:base03 = { 'gui': '#60615d', 'cterm': '08' }
+let g:base04 = { 'gui': '#c0c0bd', 'cterm': '12' }
+let g:base05 = { 'gui': '#f8f8f2', 'cterm': '07' }
+let g:base06 = { 'gui': '#fcfcf6', 'cterm': '13' }
+let g:base07 = { 'gui': '#fcfcfc', 'cterm': '15' }
+let g:base08 = { 'gui': '#f11235', 'cterm': '01' }
+let g:base09 = { 'gui': '#ff9505', 'cterm': '09' }
+let g:base0A = { 'gui': '#ffb627', 'cterm': '03' }
+let g:base0B = { 'gui': '#02d849', 'cterm': '02' }
+let g:base0C = { 'gui': '#0dd9d6', 'cterm': '06' }
+let g:base0D = { 'gui': '#00a6fb', 'cterm': '04' }
+let g:base0E = { 'gui': '#f15ee3', 'cterm': '05' }
+let g:base0F = { 'gui': '#b27701', 'cterm': '14' }
 
 "
 " Terminal colors

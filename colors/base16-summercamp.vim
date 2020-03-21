@@ -1,4 +1,4 @@
-" Nord by arcticicestudio
+" summercamp by zoe firi (zoefiri.github.io)
 
 "
 " Theme setup
@@ -6,28 +6,28 @@
 
 hi clear
 syntax reset
-let g:colors_name = 'base16-nord'
+let g:colors_name = 'base16-summercamp'
 
 "
 " Color definitions
 "
 
-let g:base00 = { 'gui': '#2E3440', 'cterm': '00' }
-let g:base01 = { 'gui': '#3B4252', 'cterm': '10' }
-let g:base02 = { 'gui': '#434C5E', 'cterm': '11' }
-let g:base03 = { 'gui': '#4C566A', 'cterm': '08' }
-let g:base04 = { 'gui': '#D8DEE9', 'cterm': '12' }
-let g:base05 = { 'gui': '#E5E9F0', 'cterm': '07' }
-let g:base06 = { 'gui': '#ECEFF4', 'cterm': '13' }
-let g:base07 = { 'gui': '#8FBCBB', 'cterm': '15' }
-let g:base08 = { 'gui': '#BF616A', 'cterm': '01' }
-let g:base09 = { 'gui': '#D08770', 'cterm': '09' }
-let g:base0A = { 'gui': '#EBCB8B', 'cterm': '03' }
-let g:base0B = { 'gui': '#A3BE8C', 'cterm': '02' }
-let g:base0C = { 'gui': '#88C0D0', 'cterm': '06' }
-let g:base0D = { 'gui': '#81A1C1', 'cterm': '04' }
-let g:base0E = { 'gui': '#B48EAD', 'cterm': '05' }
-let g:base0F = { 'gui': '#5E81AC', 'cterm': '14' }
+let g:base00 = { 'gui': '#1c1810', 'cterm': '00' }
+let g:base01 = { 'gui': '#2a261c', 'cterm': '10' }
+let g:base02 = { 'gui': '#3a3527', 'cterm': '11' }
+let g:base03 = { 'gui': '#504b38', 'cterm': '08' }
+let g:base04 = { 'gui': '#5f5b45', 'cterm': '12' }
+let g:base05 = { 'gui': '#736e55', 'cterm': '07' }
+let g:base06 = { 'gui': '#bab696', 'cterm': '13' }
+let g:base07 = { 'gui': '#f8f5de', 'cterm': '15' }
+let g:base08 = { 'gui': '#e35142', 'cterm': '01' }
+let g:base09 = { 'gui': '#fba11b', 'cterm': '09' }
+let g:base0A = { 'gui': '#f2ff27', 'cterm': '03' }
+let g:base0B = { 'gui': '#5ceb5a', 'cterm': '02' }
+let g:base0C = { 'gui': '#5aebbc', 'cterm': '06' }
+let g:base0D = { 'gui': '#489bf0', 'cterm': '04' }
+let g:base0E = { 'gui': '#FF8080', 'cterm': '05' }
+let g:base0F = { 'gui': '#F69BE7', 'cterm': '14' }
 
 "
 " Terminal colors

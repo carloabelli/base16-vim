@@ -1,4 +1,4 @@
-" Nord by arcticicestudio
+" Equilibrium Dark by Carlo Abelli
 
 "
 " Theme setup
@@ -6,28 +6,28 @@
 
 hi clear
 syntax reset
-let g:colors_name = 'base16-nord'
+let g:colors_name = 'base16-equilibrium-dark'
 
 "
 " Color definitions
 "
 
-let g:base00 = { 'gui': '#2E3440', 'cterm': '00' }
-let g:base01 = { 'gui': '#3B4252', 'cterm': '10' }
-let g:base02 = { 'gui': '#434C5E', 'cterm': '11' }
-let g:base03 = { 'gui': '#4C566A', 'cterm': '08' }
-let g:base04 = { 'gui': '#D8DEE9', 'cterm': '12' }
-let g:base05 = { 'gui': '#E5E9F0', 'cterm': '07' }
-let g:base06 = { 'gui': '#ECEFF4', 'cterm': '13' }
-let g:base07 = { 'gui': '#8FBCBB', 'cterm': '15' }
-let g:base08 = { 'gui': '#BF616A', 'cterm': '01' }
-let g:base09 = { 'gui': '#D08770', 'cterm': '09' }
-let g:base0A = { 'gui': '#EBCB8B', 'cterm': '03' }
-let g:base0B = { 'gui': '#A3BE8C', 'cterm': '02' }
-let g:base0C = { 'gui': '#88C0D0', 'cterm': '06' }
-let g:base0D = { 'gui': '#81A1C1', 'cterm': '04' }
-let g:base0E = { 'gui': '#B48EAD', 'cterm': '05' }
-let g:base0F = { 'gui': '#5E81AC', 'cterm': '14' }
+let g:base00 = { 'gui': '#0c1118', 'cterm': '00' }
+let g:base01 = { 'gui': '#181c22', 'cterm': '10' }
+let g:base02 = { 'gui': '#22262d', 'cterm': '11' }
+let g:base03 = { 'gui': '#7b776e', 'cterm': '08' }
+let g:base04 = { 'gui': '#949088', 'cterm': '12' }
+let g:base05 = { 'gui': '#afaba2', 'cterm': '07' }
+let g:base06 = { 'gui': '#cac6bd', 'cterm': '13' }
+let g:base07 = { 'gui': '#e7e2d9', 'cterm': '15' }
+let g:base08 = { 'gui': '#f04339', 'cterm': '01' }
+let g:base09 = { 'gui': '#df5923', 'cterm': '09' }
+let g:base0A = { 'gui': '#bb8801', 'cterm': '03' }
+let g:base0B = { 'gui': '#7f8b00', 'cterm': '02' }
+let g:base0C = { 'gui': '#00948b', 'cterm': '06' }
+let g:base0D = { 'gui': '#008dd1', 'cterm': '04' }
+let g:base0E = { 'gui': '#6a7fd2', 'cterm': '05' }
+let g:base0F = { 'gui': '#e3488e', 'cterm': '14' }
 
 "
 " Terminal colors

@@ -1,4 +1,4 @@
-" Nord by arcticicestudio
+" vulcan by Andrey Varfolomeev
 
 "
 " Theme setup
@@ -6,28 +6,28 @@
 
 hi clear
 syntax reset
-let g:colors_name = 'base16-nord'
+let g:colors_name = 'base16-vulcan'
 
 "
 " Color definitions
 "
 
-let g:base00 = { 'gui': '#2E3440', 'cterm': '00' }
-let g:base01 = { 'gui': '#3B4252', 'cterm': '10' }
-let g:base02 = { 'gui': '#434C5E', 'cterm': '11' }
-let g:base03 = { 'gui': '#4C566A', 'cterm': '08' }
-let g:base04 = { 'gui': '#D8DEE9', 'cterm': '12' }
-let g:base05 = { 'gui': '#E5E9F0', 'cterm': '07' }
-let g:base06 = { 'gui': '#ECEFF4', 'cterm': '13' }
-let g:base07 = { 'gui': '#8FBCBB', 'cterm': '15' }
-let g:base08 = { 'gui': '#BF616A', 'cterm': '01' }
-let g:base09 = { 'gui': '#D08770', 'cterm': '09' }
-let g:base0A = { 'gui': '#EBCB8B', 'cterm': '03' }
-let g:base0B = { 'gui': '#A3BE8C', 'cterm': '02' }
-let g:base0C = { 'gui': '#88C0D0', 'cterm': '06' }
-let g:base0D = { 'gui': '#81A1C1', 'cterm': '04' }
-let g:base0E = { 'gui': '#B48EAD', 'cterm': '05' }
-let g:base0F = { 'gui': '#5E81AC', 'cterm': '14' }
+let g:base00 = { 'gui': '#041523', 'cterm': '00' }
+let g:base01 = { 'gui': '#122339', 'cterm': '10' }
+let g:base02 = { 'gui': '#003552', 'cterm': '11' }
+let g:base03 = { 'gui': '#7a5759', 'cterm': '08' }
+let g:base04 = { 'gui': '#6b6977', 'cterm': '12' }
+let g:base05 = { 'gui': '#5b778c', 'cterm': '07' }
+let g:base06 = { 'gui': '#333238', 'cterm': '13' }
+let g:base07 = { 'gui': '#214d68', 'cterm': '15' }
+let g:base08 = { 'gui': '#818591', 'cterm': '01' }
+let g:base09 = { 'gui': '#9198a3', 'cterm': '09' }
+let g:base0A = { 'gui': '#adb4b9', 'cterm': '03' }
+let g:base0B = { 'gui': '#977d7c', 'cterm': '02' }
+let g:base0C = { 'gui': '#977d7c', 'cterm': '06' }
+let g:base0D = { 'gui': '#977d7c', 'cterm': '04' }
+let g:base0E = { 'gui': '#9198a3', 'cterm': '05' }
+let g:base0F = { 'gui': '#977d7c', 'cterm': '14' }
 
 "
 " Terminal colors

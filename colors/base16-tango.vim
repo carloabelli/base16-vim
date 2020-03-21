@@ -1,4 +1,4 @@
-" Nord by arcticicestudio
+" Tango by @Schnouki, based on the Tango Desktop Project
 
 "
 " Theme setup
@@ -6,28 +6,28 @@
 
 hi clear
 syntax reset
-let g:colors_name = 'base16-nord'
+let g:colors_name = 'base16-tango'
 
 "
 " Color definitions
 "
 
-let g:base00 = { 'gui': '#2E3440', 'cterm': '00' }
-let g:base01 = { 'gui': '#3B4252', 'cterm': '10' }
-let g:base02 = { 'gui': '#434C5E', 'cterm': '11' }
-let g:base03 = { 'gui': '#4C566A', 'cterm': '08' }
-let g:base04 = { 'gui': '#D8DEE9', 'cterm': '12' }
-let g:base05 = { 'gui': '#E5E9F0', 'cterm': '07' }
-let g:base06 = { 'gui': '#ECEFF4', 'cterm': '13' }
-let g:base07 = { 'gui': '#8FBCBB', 'cterm': '15' }
-let g:base08 = { 'gui': '#BF616A', 'cterm': '01' }
-let g:base09 = { 'gui': '#D08770', 'cterm': '09' }
-let g:base0A = { 'gui': '#EBCB8B', 'cterm': '03' }
-let g:base0B = { 'gui': '#A3BE8C', 'cterm': '02' }
-let g:base0C = { 'gui': '#88C0D0', 'cterm': '06' }
-let g:base0D = { 'gui': '#81A1C1', 'cterm': '04' }
-let g:base0E = { 'gui': '#B48EAD', 'cterm': '05' }
-let g:base0F = { 'gui': '#5E81AC', 'cterm': '14' }
+let g:base00 = { 'gui': '#2e3436', 'cterm': '00' }
+let g:base01 = { 'gui': '#8ae234', 'cterm': '10' }
+let g:base02 = { 'gui': '#fce94f', 'cterm': '11' }
+let g:base03 = { 'gui': '#555753', 'cterm': '08' }
+let g:base04 = { 'gui': '#729fcf', 'cterm': '12' }
+let g:base05 = { 'gui': '#d3d7cf', 'cterm': '07' }
+let g:base06 = { 'gui': '#ad7fa8', 'cterm': '13' }
+let g:base07 = { 'gui': '#eeeeec', 'cterm': '15' }
+let g:base08 = { 'gui': '#cc0000', 'cterm': '01' }
+let g:base09 = { 'gui': '#ef2929', 'cterm': '09' }
+let g:base0A = { 'gui': '#c4a000', 'cterm': '03' }
+let g:base0B = { 'gui': '#4e9a06', 'cterm': '02' }
+let g:base0C = { 'gui': '#06989a', 'cterm': '06' }
+let g:base0D = { 'gui': '#3465a4', 'cterm': '04' }
+let g:base0E = { 'gui': '#75507b', 'cterm': '05' }
+let g:base0F = { 'gui': '#34e2e2', 'cterm': '14' }
 
 "
 " Terminal colors
